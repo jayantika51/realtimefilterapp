@@ -1,0 +1,18 @@
+body{
+    background-size: cover;
+    
+}
+
+h3{
+    font-size: 60px;
+    font-family: 'Cookie', cursive;
+   font-weight:bolder ;
+   color:purple;
+}
+
+button{
+    font-family: 'Moon Dance', cursive;
+   font-size:45px;
+   font-weight: bold;
+color:mediumblue;
+}
